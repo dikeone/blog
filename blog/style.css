@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    border: 2px dashed green;
+    padding: 15px
+}
+
+.container-one{
+    border: 2px dashed green;
+    padding: 15px;
+    margin-right: 15px;
+}
+
+.container-two{
+    border: 2px dashed green;
+    padding: 15px;
+
+
+}
+
+.container-three{
+    border: 2px dashed green;
+    padding: 15px;
+    margin-bottom: 15px;
+
+
+}
+
+.container-four{
+    border: 2px dashed green;
+    padding: 15px;
+
+
+}
